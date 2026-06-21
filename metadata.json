@@ -1,0 +1,6 @@
+{
+  "name": "Celebrity Sneaker Directory & Blog",
+  "description": "A high-performance directory of Hollywood celebrities and their iconic shoes and sneakers, featuring search, filters, detailed profiles, and sneaker news blogs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
